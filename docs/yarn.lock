@@ -1017,6 +1017,7 @@
 
 "@types/jest@link:../node_modules/@types/jest":
   version "0.0.0"
+  uid ""
 
 "@types/node@*":
   version "12.0.4"
@@ -1025,6 +1026,7 @@
 
 "@types/node@link:../node_modules/@types/node":
   version "0.0.0"
+  uid ""
 
 "@types/prop-types@*":
   version "15.7.1"
@@ -1078,6 +1080,7 @@
 
 "@types/react@link:../node_modules/@types/react":
   version "0.0.0"
+  uid ""
 
 "@types/tapable@1.0.2":
   version "1.0.2"
@@ -8360,6 +8363,7 @@ react-dev-utils@^8.0.0:
 
 "react-dom@link:../node_modules/react-dom":
   version "0.0.0"
+  uid ""
 
 react-error-overlay@^5.1.4:
   version "5.1.6"
@@ -8456,16 +8460,18 @@ react-scripts@2.1.8:
 
 "react@link:../node_modules/react":
   version "0.0.0"
+  uid ""
 
-reactn-devtools@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/reactn-devtools/-/reactn-devtools-1.0.0.tgz#5268abd75ce944b87aa16dd138105339bcef72d5"
-  integrity sha512-B87iZaHE0bDh415UCW35wN//+T+3Og11rCQ+qRLGbLy0hXN0fPtNfk6Yt1xSzg8waM1Si7mDo+WyW6EgRqx1QA==
+reactn-devtools@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/reactn-devtools/-/reactn-devtools-1.1.0.tgz#b253bfeb99fac6848e93fd1d1be796a87d3e381a"
+  integrity sha512-kTY+ogE5iWifBIff/HFGnsWjIHOUCQq+VydPoPpm6vczCaHWI7l5wcDxUw8/UlwGlnFTV/sUseTghnrvi8/lLw==
+  dependencies:
+    redux-devtools-extension "^2.13.8"
 
 "reactn@link:..":
-  version "2.2.7"
-  dependencies:
-    use-force-update "^1.0.5"
+  version "0.0.0"
+  uid ""
 
 read-pkg-up@^1.0.1:
   version "1.0.1"
@@ -8553,6 +8559,11 @@ redent@^1.0.0:
   dependencies:
     indent-string "^2.1.0"
     strip-indent "^1.0.1"
+
+redux-devtools-extension@^2.13.8:
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/redux-devtools-extension/-/redux-devtools-extension-2.13.8.tgz#37b982688626e5e4993ff87220c9bbb7cd2d96e1"
+  integrity sha512-8qlpooP2QqPtZHQZRhx3x3OP5skEV1py/zUdMY28WNAocbafxdG2tRD1MWE7sp8obGMNYuLWanhhQ7EQvT1FBg==
 
 redux@^4.0.1:
   version "4.0.1"
@@ -9941,6 +9952,7 @@ typedarray@^0.0.6:
 
 "typescript@link:../node_modules/typescript":
   version "0.0.0"
+  uid ""
 
 ua-parser-js@^0.7.18:
   version "0.7.19"
