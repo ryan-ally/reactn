@@ -8462,10 +8462,12 @@ react-scripts@2.1.8:
   version "0.0.0"
   uid ""
 
-reactn-devtools@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/reactn-devtools/-/reactn-devtools-1.0.0.tgz#5268abd75ce944b87aa16dd138105339bcef72d5"
-  integrity sha512-B87iZaHE0bDh415UCW35wN//+T+3Og11rCQ+qRLGbLy0hXN0fPtNfk6Yt1xSzg8waM1Si7mDo+WyW6EgRqx1QA==
+reactn-devtools@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/reactn-devtools/-/reactn-devtools-1.1.0.tgz#b253bfeb99fac6848e93fd1d1be796a87d3e381a"
+  integrity sha512-kTY+ogE5iWifBIff/HFGnsWjIHOUCQq+VydPoPpm6vczCaHWI7l5wcDxUw8/UlwGlnFTV/sUseTghnrvi8/lLw==
+  dependencies:
+    redux-devtools-extension "^2.13.8"
 
 "reactn@link:..":
   version "0.0.0"
@@ -8558,10 +8560,7 @@ redent@^1.0.0:
     indent-string "^2.1.0"
     strip-indent "^1.0.1"
 
-redux@^4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/redux/-/redux-4.0.5.tgz#4db5de5816e17891de8a80c424232d06f051d93f"
-  integrity sha512-VSz1uMAH24DM6MF72vcojpYPtrTUu3ByVWfPL1nPfVRb5mZVTve5GnNCUV53QM/BZ66xfWrm0CTWoM+Xlz8V1w==
+
   dependencies:
     loose-envify "^1.4.0"
     symbol-observable "^1.2.0"
