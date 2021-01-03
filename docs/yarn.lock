@@ -1017,6 +1017,7 @@
 
 "@types/jest@link:../node_modules/@types/jest":
   version "0.0.0"
+  uid ""
 
 "@types/node@*":
   version "12.0.4"
@@ -1025,6 +1026,7 @@
 
 "@types/node@link:../node_modules/@types/node":
   version "0.0.0"
+  uid ""
 
 "@types/prop-types@*":
   version "15.7.1"
@@ -1078,6 +1080,7 @@
 
 "@types/react@link:../node_modules/@types/react":
   version "0.0.0"
+  uid ""
 
 "@types/tapable@1.0.2":
   version "1.0.2"
@@ -8360,6 +8363,7 @@ react-dev-utils@^8.0.0:
 
 "react-dom@link:../node_modules/react-dom":
   version "0.0.0"
+  uid ""
 
 react-error-overlay@^5.1.4:
   version "5.1.6"
@@ -8456,6 +8460,7 @@ react-scripts@2.1.8:
 
 "react@link:../node_modules/react":
   version "0.0.0"
+  uid ""
 
 reactn-devtools@^1.0.0:
   version "1.0.0"
@@ -8463,9 +8468,8 @@ reactn-devtools@^1.0.0:
   integrity sha512-B87iZaHE0bDh415UCW35wN//+T+3Og11rCQ+qRLGbLy0hXN0fPtNfk6Yt1xSzg8waM1Si7mDo+WyW6EgRqx1QA==
 
 "reactn@link:..":
-  version "2.2.7"
-  dependencies:
-    use-force-update "^1.0.5"
+  version "0.0.0"
+  uid ""
 
 read-pkg-up@^1.0.1:
   version "1.0.1"
@@ -8554,10 +8558,10 @@ redent@^1.0.0:
     indent-string "^2.1.0"
     strip-indent "^1.0.1"
 
-redux@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/redux/-/redux-4.0.1.tgz#436cae6cc40fbe4727689d7c8fae44808f1bfef5"
-  integrity sha512-R7bAtSkk7nY6O/OYMVR9RiBI+XghjF9rlbl5806HJbQph0LJVHZrU5oaO4q70eUKiqMRqm4y07KLTlMZ2BlVmg==
+redux@^4.0.5:
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/redux/-/redux-4.0.5.tgz#4db5de5816e17891de8a80c424232d06f051d93f"
+  integrity sha512-VSz1uMAH24DM6MF72vcojpYPtrTUu3ByVWfPL1nPfVRb5mZVTve5GnNCUV53QM/BZ66xfWrm0CTWoM+Xlz8V1w==
   dependencies:
     loose-envify "^1.4.0"
     symbol-observable "^1.2.0"
@@ -9941,6 +9945,7 @@ typedarray@^0.0.6:
 
 "typescript@link:../node_modules/typescript":
   version "0.0.0"
+  uid ""
 
 ua-parser-js@^0.7.18:
   version "0.7.19"
