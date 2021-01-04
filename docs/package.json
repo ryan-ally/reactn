@@ -22,7 +22,7 @@
   "dependencies": {
     "react": "link:../node_modules/react",
     "react-dom": "link:../node_modules/react-dom",
-    "react-router": "^5.0.0",
+    "react-router": "^5.2.0",
     "react-router-dom": "^5.0.0",
     "reactn": "link:..",
 
