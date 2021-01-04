@@ -24,7 +24,7 @@
     "react-dom": "link:../node_modules/react-dom",
     "react-router": "^5.0.0",
     "react-router-dom": "^5.0.0",
-    "reactn": "link:..",
+    "reactn": "0.2.2",
 
     "use-react-router": "^1.0.5"
   },
